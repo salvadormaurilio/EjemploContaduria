@@ -8,4 +8,5 @@
     <color name="secondary_text">#b2FFFFFF</color>
     <color name="divider">#4CFFFFFF</color>
     <color name="icons">#FFFFFF</color>
+    <color name="accent_gree">#4CAF50</color>
 </resources>

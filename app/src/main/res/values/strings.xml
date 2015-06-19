@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="hint_edittext">Escribe Algo</string>
     <string name="text_aceptar">Aceptar</string>
+    <string name="text_other_activity">Otra Actividad</string>
+    <string name="title_activity_other">OtherActivity</string>
 </resources>
